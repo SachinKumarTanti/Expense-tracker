@@ -3,4 +3,5 @@ sqlalchemy
 flask_sqlalchemy
 dotenv
 flask_login
+psycopg2
 werkzeug
